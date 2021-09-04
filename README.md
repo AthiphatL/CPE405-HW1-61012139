@@ -41,5 +41,4 @@
 <img src="datasheet/ESP8266.jpg" >
 <p>NODEMCU</p>
 
-<img src="datasheet/Untitled.png" >
-<p>ออกแบบคราวๆ</p>
+
